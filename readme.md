@@ -1,4 +1,4 @@
-# SOY EL TITULO PRINCIPAL
+# SOY UN SUPER PATINADOR
 ## subtitulo
 ### sub subtitulo
 #### sub sub subtitulo 7
