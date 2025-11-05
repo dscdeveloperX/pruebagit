@@ -1,4 +1,4 @@
-# SOY UN SUPER PATINADOR
+# SOY UN SUPER PATINADOR FREESTYLE SLALOM
 ## subtitulo
 ### sub subtitulo
 #### sub sub subtitulo 7
